@@ -1,2 +1,7 @@
-## empty
-for start go Action tab and use left side workflows
+# Downloaded list :
+
+- [2026-03-07-7epdjwbj-Metroid_Dread](./2026-03-07-7epdjwbj-Metroid_Dread)
+
+---
+
+*This tool created by [avasam.ir](https://avasam.ir)*
